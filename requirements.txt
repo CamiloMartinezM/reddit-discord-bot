@@ -1,0 +1,5 @@
+discord
+requests
+nest-asyncio
+python-dotenv
+praw
